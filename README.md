@@ -1,4 +1,7 @@
 # Flask Quickster
+
+![Backend Image](https://codecondo.com/wp-content/uploads/2017/09/What-is-back-end-development.jpg)
+
 Hi, to whoever is reading this. This is my API template. It allows me to quickly create web API that stores data into a database like SQLite. It also has handles user authentication! 
 
 ## Installation 
