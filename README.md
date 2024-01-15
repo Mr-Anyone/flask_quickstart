@@ -1,5 +1,14 @@
-## First time setup 
-please run the following code when you are running this for the first time 
+# Flask Quickster
+Hi, to whoever is reading this. This is my API template. It allows me to quickly create web API that stores data into a database like SQLite. It also has handles user authentication! 
 
-## Todo 
-Fix requirements.txt
+## Installation 
+Firstly, it is recommended that you create a virtual environment like the following. 
+```
+python3 -m venv .venv
+```
+
+Here is how you would install the dependencies and run the server!
+```
+.venv/bin/pip3 install -r requirements.txt
+.venv/bin/python3 server.py
+```
